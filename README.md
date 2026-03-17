@@ -26,7 +26,7 @@ This project is an **interactive Business Intelligence (BI) dashboard** designed
 
 ## Technologies Used
 - **Data Visualization & Dashboarding:** Power BI / Tableau / Streamlit
-- **Data Storage:** CSV, SQL (if applicable)
+- **Data Storage:** CSV
 - **Version Control:** Git & GitHub
 
 ---
